@@ -5,7 +5,7 @@ TCP protocol is utilised and new threads are created for each file to be sent.
 # Getting Started 
 You can clone the repo or download the files and run both the client and server files.
 
-## Prerequite to Run Code 
+## Prerequisite to Run Code 
 - Two computers 
 - Any Java IDE 
 - Internet connection
